@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **kumarshashwat0309@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YY1P-gdt3y0T9XbqMBX0gDJj_cPZqs5R/view?usp=sharing](https://drive.google.com/file/d/1YY1P-gdt3y0T9XbqMBX0gDJj_cPZqs5R/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://shashwat-portfolio-09.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://shashwat-portfolio-09.netlify.app/" height="30" width="40" /></a>
