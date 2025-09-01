@@ -10,7 +10,7 @@ I'm a B.Tech CSE (AI & DS) student at IIIT Manipur, passionate about building im
 <p align="left">
 <a href="https://dev.to/https://shashwat-portfolio-09.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://shashwat-portfolio-09.netlify.app/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat0903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat0903/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kumarshashwat0309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kumarshashwat0309/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kumarshashwat0309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kumarshashwat0309/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/kumarshashwat0309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kumarshashwat0309/" height="30" width="40" /></a>
 </p>
 
